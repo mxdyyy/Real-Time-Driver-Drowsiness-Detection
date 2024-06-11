@@ -1,13 +1,12 @@
 # Real-Time Driver Drowsiness Detection: A Revolution in Road Safety
 Welcome to the DorkyDuos team's GitHub repository for our project on Real-Time Driver Drowsiness Detection. This project aims to enhance road safety by employing advanced technologies for real-time detection of driver drowsiness.
-<p>
+![Made with Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Made with Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter%20Notebook-orange)
 ![Built by Team-Geeks](https://img.shields.io/badge/Built%20by-Team--Geeks-green)
 ![Built with ❤️](https://img.shields.io/badge/Built%20with-%E2%9D%A4-orange)
 ![Last commit June 2023](https://img.shields.io/badge/Last%20commit-June%202023-yellow)
 ![Watchers](https://img.shields.io/badge/Watchers-1-informational)
   
-</p>
 
 This project that focuses on enhancing road safety by using Machine Learning to monitor signs of driver fatigue, such as eye movements and facial expressions, aiming to prevent accidents and reduce road fatalities.
 
