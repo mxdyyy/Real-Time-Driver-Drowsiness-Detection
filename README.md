@@ -1,8 +1,8 @@
 # Real-Time Driver Drowsiness Detection: A Revolution in Road Safety
-![built-by-team-dorkyduos](https://raw.githubusercontent.com/mxdyyy/badge/ca7b14c23382f7d0a2effb1ebf00d43365e62e4b/built-by-team-dorkyduos.svg?token=BC6XTEB2HOB2JWLJMOHTIADGNCD2Q)
 ![custom-badge](https://raw.githubusercontent.com/mxdyyy/badge/ca7b14c23382f7d0a2effb1ebf00d43365e62e4b/made-with-jupyter-notebook%20(1).svg)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-Welcome to the DorkyDuos team's GitHub repository for our project on Real-Time Driver Drowsiness Detection. This project aims to enhance road safety by employing advanced technologies for real-time detection of driver drowsiness.
+![built-by-team-dorkyduos](https://raw.githubusercontent.com/mxdyyy/badge/ca7b14c23382f7d0a2effb1ebf00d43365e62e4b/built-by-team-dorkyduos.svg?token=BC6XTEB2HOB2JWLJMOHTIADGNCD2Q)
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+](https://raw.githubusercontent.com/mxdyyy/badge/ca7b14c23382f7d0a2effb1ebf00d43365e62e4b/built-with-%E2%9D%A4%EF%B8%8F.svg)Welcome to the DorkyDuos team's GitHub repository for our project on Real-Time Driver Drowsiness Detection. This project aims to enhance road safety by employing advanced technologies for real-time detection of driver drowsiness.
 
 This project focuses on enhancing road safety by using Machine Learning to identify signs of driver fatigue, such as eye movements and facial expressions, aiming to prevent accidents and reduce road fatalities.
 
