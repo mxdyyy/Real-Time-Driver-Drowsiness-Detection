@@ -1,6 +1,6 @@
 # Real-Time Driver Drowsiness Detection: A Revolution in Road Safety
 [![forthebadge](https://forthebadge.com/images/badges/made-with-html.svg)](https://forthebadge.com)  
-[builtby team-dorky](https://raw.githubusercontent.com/mxdyyy/badge/ca7b14c23382f7d0a2effb1ebf00d43365e62e4b/built-by-team-dorkyduos.svg?token=BC6XTEB2HOB2JWLJMOHTIADGNCD2Q)
+[](https://raw.githubusercontent.com/mxdyyy/badge/ca7b14c23382f7d0a2effb1ebf00d43365e62e4b/built-by-team-dorkyduos.svg?token=BC6XTEB2HOB2JWLJMOHTIADGNCD2Q)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 Welcome to the DorkyDuos team's GitHub repository for our project on Real-Time Driver Drowsiness Detection. This project aims to enhance road safety by employing advanced technologies for real-time detection of driver drowsiness.
 
