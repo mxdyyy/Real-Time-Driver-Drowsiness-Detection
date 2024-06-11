@@ -1,9 +1,8 @@
-# Real-Time-Driver-Drowsiness-Detection
-A project that focuses on enhancing road safety by using Machine Learning to monitor signs of driver fatigue, such as eye movements and facial expressions, aiming to prevent accidents and reduce road fatalities.
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 # Real-Time Driver Drowsiness Detection: A Revolution in Road Safety
-
 Welcome to the DorkyDuos team's GitHub repository for our project on Real-Time Driver Drowsiness Detection. This project aims to enhance road safety by employing advanced technologies for real-time detection of driver drowsiness.
+
+This project that focuses on enhancing road safety by using Machine Learning to monitor signs of driver fatigue, such as eye movements and facial expressions, aiming to prevent accidents and reduce road fatalities.
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## Team Members
 - **Madhav N (Team Leader)**  
@@ -111,6 +110,3 @@ Our system's proof of concept includes live input video footage demonstrating th
 ## Contact
 - **Madhav N**: [madhavnarayanan2004@gmail.com](mailto:madhavnarayanan2004@gmail.com)
 - **Mathangi N**: [mathanginarayanan2004@gmail.com](mailto:mathanginarayanan2004@gmail.com)
-- Phone: +91 6374142018, +91 9944982360
-
-*Credits*: This presentation template was created by Slidesgo, and includes icons by Flaticon, and infographics & images by Freepik.
