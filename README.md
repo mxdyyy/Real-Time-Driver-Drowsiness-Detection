@@ -109,6 +109,6 @@ To ensure accuracy and effectiveness, we created a custom dataset consisting of 
 ## Proof of Concept
 Our system's proof of concept includes live input video footage demonstrating the real-time detection of driver drowsiness.
 
-## Contact
+## Contributors
 - **Madhav N**: [madhavnarayanan2004@gmail.com](mailto:madhavnarayanan2004@gmail.com)
 - **Mathangi N**: [mathanginarayanan2004@gmail.com](mailto:mathanginarayanan2004@gmail.com)
